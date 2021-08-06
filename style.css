@@ -163,7 +163,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("S:/Website/port/images/mountaintop.jpeg") no-repeat center;
+    background: url('images/mountaintop.jpeg') no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
